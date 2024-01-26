@@ -54,10 +54,11 @@ class TuturoApp:
     @staticmethod
     def define_topics():
         return [
-            "Teenage Mutant Ninja Turtles", "Product Management", "Math", "History",
-            "Languages", "Science", "Geography", "Computer Science", "Business",
-            "Art", "P.E.", "Literature", "Music", "Self-improvement",
-            "Health", "Psychology", "Technology", "Creativity", "Social Sciences",
+            "Product Management", OTHER_SPECIFY, "House Plants",
+            "Math", "History", "Languages", "Science",
+            "Geography", "Computer Science", "Business", "Art", "P.E.",
+            "Literature", "Music", "Self-improvement", "Health", "Psychology",
+            "Technology", "Creativity", "Social Sciences", "Teenage Mutant Ninja Turtles",
         ]
 
     @staticmethod

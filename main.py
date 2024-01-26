@@ -54,7 +54,7 @@ class TuturoApp:
     @staticmethod
     def define_topics():
         return [
-            "Product Management", OTHER_SPECIFY, "House Plants",
+            "House Plants", OTHER_SPECIFY, "Product Management",
             "Math", "History", "Languages", "Science",
             "Geography", "Computer Science", "Business", "Art", "P.E.",
             "Literature", "Music", "Self-improvement", "Health", "Psychology",
